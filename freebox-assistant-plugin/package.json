@@ -4,6 +4,7 @@
   "description": "Permet de gérer des plugins avec les Assistants (via IFTTT et Pushbullet)",
   "main": "index.js",
   "repository": "https://github.com/Aymkdn/assistant-plugins",
+  "private": true,
   "dependencies": {
     "assistant-freebox": "^2.0.10",
     "assistant-plugins": "latest",
