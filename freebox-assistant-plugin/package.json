@@ -5,11 +5,12 @@
   "main": "index.js",
   "repository": "https://github.com/Aymkdn/assistant-plugins",
   "dependencies": {
-    "promise": "^8.0.1",
-    "pushbullet": "^2.1.0",
-    "request": "^2.83.0",
-    "request-promise-native": "^1.0.5",
+    "assistant-freebox": "^2.0.10",
+    "assistant-plugins": "latest",
     "jsonfile": "^4.0.0"
+  },
+  "scripts": {
+    "postinstall": "node ./postinstall.js"
   },
   "author": "aymkdn",
   "license": "MIT",
