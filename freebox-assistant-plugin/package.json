@@ -6,7 +6,7 @@
   "repository": "https://github.com/Aymkdn/assistant-plugins",
   "private": true,
   "dependencies": {
-    "assistant-freebox": "^2.0.10",
+    "assistant-freebox": "^2.0.13",
     "assistant-plugins": "latest",
     "jsonfile": "^4.0.0"
   },
