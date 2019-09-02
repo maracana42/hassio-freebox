@@ -5,6 +5,8 @@
   "main": "index.js",
   "repository": "https://github.com/Aymkdn/assistant-plugins",
   "dependencies": {
+    "assistant-freebox": "^2.0.10",
+    "assistant-plugins": "latest",
     "promise": "^8.0.1",
     "pushbullet": "^2.1.0",
     "request": "^2.83.0",
