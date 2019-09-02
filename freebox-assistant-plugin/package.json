@@ -1,12 +1,12 @@
 {
-  "name": "assistant-plugins",
+  "name": "assistant-plugins-project",
   "version": "2.0.0",
-  "description": "Permet de gérer des plugins avec les Assistants (via IFTTT et Pushbullet)",
+  "description": "Utilisé pour gérer le project",
   "main": "index.js",
   "repository": "https://github.com/Aymkdn/assistant-plugins",
   "private": true,
   "dependencies": {
-    "assistant-freebox": "^2.0.10",
+    "assistant-freebox": "^2.0.0",
     "assistant-plugins": "latest",
     "jsonfile": "^4.0.0"
   },
