@@ -17,7 +17,7 @@
         "host_network": true,
 	"auth_api": true,
         "auto_uart": true,
-	"homeassistant_api": true
+	"homeassistant_api": true,
 	"map": [
         "config:rw",
 	"share:rw",
