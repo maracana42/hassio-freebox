@@ -18,7 +18,7 @@
 	"auth_api": true,
         "auto_uart": true,
 	"homeassistant_api": true
-        "map" : [
+        "map": [
         "config:rw",
 	"share:rw",
         "ssl"
