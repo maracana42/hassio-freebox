@@ -18,6 +18,11 @@
 	"auth_api": true,
         "auto_uart": true,
 	"homeassistant_api": true
+	"map": [
+        "config:rw",
+	"share:rw",
+        "ssl"
+        ],
       
 	"options": {
 		"pushbullet_token": "votre token pushbullet",
